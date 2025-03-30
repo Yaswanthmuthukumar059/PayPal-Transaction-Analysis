@@ -23,5 +23,5 @@ A data analysis project exploring retail transaction trends, with a focus on Pay
 ## Files
 - `.ipynb`: Full code and analysis.
 - `.png`: Static visualizations.
-- `.html`: Interactive PayPal hourly plot.
+- `.html`: Interactive PayPal hourly plot(Download to view the chart).
 - `insights.txt`: Summary of findings.
