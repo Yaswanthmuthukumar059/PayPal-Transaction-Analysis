@@ -1,0 +1,8 @@
+PayPal Transaction Analysis Insights (Retail Dataset)
+------------------------------------------------
+1. PayPal's Transaction Share: 25.1% of all retail transactions.
+2. Busiest Day (All Methods): Thursday with $3,604,946.27 in sales.
+3. PayPal's Peak Hour: 17:00 with $283,941.01, suggesting after-work online shopping.
+4. Cash vs. PayPal: Cash has 59 fewer transactions than PayPal.
+5. Opportunity: PayPal’s average transaction ($248.13) is competitive but trails Debit Card ($249.21)—target higher-value retail purchases.
+6. Seasonal Trend: December and January peak at ~$2.13M each, likely holiday-driven.
